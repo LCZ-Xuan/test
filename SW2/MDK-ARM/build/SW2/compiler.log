@@ -1,0 +1,176 @@
+>>> info
+
+Compiler Full Name: Component: ARM Compiler 5.06 update 5 (build 528)
+Compiler Version: 5.06
+Builder Mode: Incremental
+The amount of C files: 0
+The amount of C++ files: 0
+The amount of Asm files: 0
+
+>>> prebuild
+
+
+
+>>> cc
+
+
+
+>>> ld
+
+Error: L6406E: No space in execution regions with .ANY selector matching scanf_fp.o(.text).
+Error: L6406E: No space in execution regions with .ANY selector matching _printf_fp_dec.o(.text).
+Error: L6406E: No space in execution regions with .ANY selector matching startup_stm32f103xb.o(STACK).
+Error: L6406E: No space in execution regions with .ANY selector matching btod.o(CL$$btod_div_common).
+Error: L6406E: No space in execution regions with .ANY selector matching stm32f1xx_hal_rcc.o(i.HAL_RCC_OscConfig).
+Error: L6406E: No space in execution regions with .ANY selector matching scanf_hexfp.o(.text).
+Error: L6406E: No space in execution regions with .ANY selector matching stm32f1xx_hal_uart.o(i.HAL_UART_IRQHandler).
+Error: L6406E: No space in execution regions with .ANY selector matching btod.o(CL$$btod_mult_common).
+Error: L6406E: No space in execution regions with .ANY selector matching startup_stm32f103xb.o(HEAP).
+Error: L6406E: No space in execution regions with .ANY selector matching stm32f1xx_hal_gpio.o(i.HAL_GPIO_Init).
+Error: L6406E: No space in execution regions with .ANY selector matching fdiv.o(x$fpl$fdiv).
+Error: L6406E: No space in execution regions with .ANY selector matching scanf_infnan.o(.text).
+Error: L6406E: No space in execution regions with .ANY selector matching stm32f1xx_hal_rcc.o(i.HAL_RCC_ClockConfig).
+Error: L6406E: No space in execution regions with .ANY selector matching lc_ctype_c.o(locale$$data).
+Error: L6406E: No space in execution regions with .ANY selector matching __printf_wp.o(.text).
+Error: L6406E: No space in execution regions with .ANY selector matching fmul.o(x$fpl$fmul).
+Error: L6406E: No space in execution regions with .ANY selector matching faddsub_clz.o(x$fpl$fsub).
+Error: L6406E: No space in execution regions with .ANY selector matching bigflt0.o(.text).
+Error: L6406E: No space in execution regions with .ANY selector matching btod.o(CL$$btod_e2e).
+Error: L6406E: No space in execution regions with .ANY selector matching faddsub_clz.o(x$fpl$fadd).
+Error: L6406E: No space in execution regions with .ANY selector matching stm32f1xx_hal_uart.o(i.UART_Receive_IT).
+Error: L6406E: No space in execution regions with .ANY selector matching narrow.o(i.__mathlib_tofloat).
+Error: L6406E: No space in execution regions with .ANY selector matching stm32f1xx_hal_uart.o(i.UART_SetConfig).
+Error: L6406E: No space in execution regions with .ANY selector matching strtod.o(.text).
+Error: L6406E: No space in execution regions with .ANY selector matching stm32f1xx_hal_uart.o(i.HAL_UART_Transmit).
+Error: L6406E: No space in execution regions with .ANY selector matching dnaninf.o(x$fpl$dnaninf).
+Error: L6406E: No space in execution regions with .ANY selector matching stm32f1xx_hal_dma.o(i.HAL_DMA_Abort_IT).
+Error: L6406E: No space in execution regions with .ANY selector matching bigflt0.o(.constdata).
+Error: L6406E: No space in execution regions with .ANY selector matching fnaninf.o(x$fpl$fnaninf).
+Error: L6406E: No space in execution regions with .ANY selector matching lludiv10.o(.text).
+Error: L6406E: No space in execution regions with .ANY selector matching btod.o(CL$$btod_e2d).
+Error: L6406E: No space in execution regions with .ANY selector matching stm32f1xx_hal_msp.o(i.HAL_UART_MspInit).
+Error: L6406E: No space in execution regions with .ANY selector matching _printf_fp_infnan.o(.text).
+Error: L6406E: No space in execution regions with .ANY selector matching strcmpv7m.o(.text).
+Error: L6406E: No space in execution regions with .ANY selector matching deqf.o(x$fpl$deqf).
+Error: L6406E: No space in execution regions with .ANY selector matching dleqf.o(x$fpl$dleqf).
+Error: L6406E: No space in execution regions with .ANY selector matching ldexp.o(i.ldexp).
+Error: L6406E: No space in execution regions with .ANY selector matching stm32f1xx_hal_uart.o(i.UART_WaitOnFlagUntilTimeout).
+Error: L6406E: No space in execution regions with .ANY selector matching main.o(i.main).
+Error: L6406E: No space in execution regions with .ANY selector matching drleqf.o(x$fpl$drleqf).
+Error: L6406E: No space in execution regions with .ANY selector matching main.o(i.HAL_UARTEx_RxEventCallback).
+Error: L6406E: No space in execution regions with .ANY selector matching stm32f1xx_hal_uart.o(i.HAL_UART_Init).
+Error: L6406E: No space in execution regions with .ANY selector matching retnan.o(x$fpl$retnan).
+Error: L6406E: No space in execution regions with .ANY selector matching d2f.o(x$fpl$d2f).
+Error: L6406E: No space in execution regions with .ANY selector matching main.o(i.Send_Data).
+Error: L6406E: No space in execution regions with .ANY selector matching btod.o(CL$$btod_d2e_norm_op1).
+Error: L6406E: No space in execution regions with .ANY selector matching libspace.o(.bss).
+Error: L6406E: No space in execution regions with .ANY selector matching main.o(i.SystemClock_Config).
+Error: L6406E: No space in execution regions with .ANY selector matching main.o(.bss).
+Error: L6406E: No space in execution regions with .ANY selector matching scalbn.o(x$fpl$scalbn).
+Error: L6406E: No space in execution regions with .ANY selector matching frexp.o(i.frexp).
+Error: L6406E: No space in execution regions with .ANY selector matching f2d.o(x$fpl$f2d).
+Error: L6406E: No space in execution regions with .ANY selector matching stm32f1xx_hal_uart.o(i.HAL_UARTEx_ReceiveToIdle_IT).
+Error: L6406E: No space in execution regions with .ANY selector matching stm32f1xx_hal_uart.o(i.UART_EndRxTransfer).
+Error: L6406E: No space in execution regions with .ANY selector matching rt_memclr_w.o(.text).
+Error: L6406E: No space in execution regions with .ANY selector matching stm32f1xx_hal_msp.o(i.HAL_MspInit).
+Error: L6406E: No space in execution regions with .ANY selector matching stm32f1xx_hal_rcc.o(i.HAL_RCC_GetSysClockFreq).
+Error: L6406E: No space in execution regions with .ANY selector matching sys_stackheap_outer.o(.text).
+Error: L6406E: No space in execution regions with .ANY selector matching stm32f1xx_hal_dma.o(i.HAL_DMA_Abort).
+Error: L6406E: No space in execution regions with .ANY selector matching btod.o(CL$$btod_d2e_denorm_low).
+Error: L6406E: No space in execution regions with .ANY selector matching stm32f1xx_hal.o(i.HAL_InitTick).
+Error: L6406E: No space in execution regions with .ANY selector matching stm32f1xx_hal_cortex.o(i.HAL_NVIC_SetPriority).
+Error: L6406E: No space in execution regions with .ANY selector matching startup_stm32f103xb.o(.text).
+Error: L6406E: No space in execution regions with .ANY selector matching _sgetc.o(.text).
+Error: L6406E: No space in execution regions with .ANY selector matching strlen.o(.text).
+Error: L6406E: No space in execution regions with .ANY selector matching ffixu.o(x$fpl$ffixu).
+Error: L6406E: No space in execution regions with .ANY selector matching btod.o(CL$$btod_d2e).
+Error: L6406E: No space in execution regions with .ANY selector matching stm32f1xx_hal_uart.o(i.UART_Start_Receive_IT).
+Error: L6406E: No space in execution regions with .ANY selector matching _printf_char_common.o(.text).
+Error: L6406E: No space in execution regions with .ANY selector matching trapv.o(x$fpl$trapveneer).
+Error: L6406E: No space in execution regions with .ANY selector matching main.o(i.Set_CCR).
+Error: L6406E: No space in execution regions with .ANY selector matching lc_numeric_c.o(locale$$code).
+Error: L6406E: No space in execution regions with .ANY selector matching lc_ctype_c.o(locale$$code).
+Error: L6406E: No space in execution regions with .ANY selector matching atof.o(i.atof).
+Error: L6406E: No space in execution regions with .ANY selector matching btod.o(CL$$btod_emul).
+Error: L6406E: No space in execution regions with .ANY selector matching btod.o(CL$$btod_ediv).
+Error: L6406E: No space in execution regions with .ANY selector matching btod.o(CL$$btod_emuld).
+Error: L6406E: No space in execution regions with .ANY selector matching btod.o(CL$$btod_edivd).
+Error: L6406E: No space in execution regions with .ANY selector matching stm32f1xx_hal_cortex.o(i.HAL_SYSTICK_Config).
+Error: L6406E: No space in execution regions with .ANY selector matching noretval__2sprintf.o(.text).
+Error: L6406E: No space in execution regions with .ANY selector matching fpclassify.o(i.__ARM_fpclassify).
+Error: L6406E: No space in execution regions with .ANY selector matching fflt_clz.o(x$fpl$ffltu).
+Error: L6406E: No space in execution regions with .ANY selector matching llshl.o(.text).
+Error: L6406E: No space in execution regions with .ANY selector matching stm32f1xx_hal.o(i.HAL_Init).
+Error: L6406E: No space in execution regions with .ANY selector matching stm32f1xx_hal_cortex.o(i.HAL_NVIC_SetPriorityGrouping).
+Error: L6406E: No space in execution regions with .ANY selector matching main.o(i.Get_Duty).
+Error: L6406E: No space in execution regions with .ANY selector matching stm32f1xx_hal_cortex.o(i.__NVIC_SetPriority).
+Error: L6406E: No space in execution regions with .ANY selector matching stm32f1xx_hal_rcc.o(i.HAL_RCC_GetPCLK1Freq).
+Error: L6406E: No space in execution regions with .ANY selector matching stm32f1xx_hal_rcc.o(i.HAL_RCC_GetPCLK2Freq).
+Error: L6406E: No space in execution regions with .ANY selector matching lc_numeric_c.o(locale$$data).
+Error: L6406E: No space in execution regions with .ANY selector matching _chval.o(.text).
+Error: L6406E: No space in execution regions with .ANY selector matching stm32f1xx_hal_cortex.o(i.HAL_NVIC_EnableIRQ).
+Error: L6406E: No space in execution regions with .ANY selector matching dcmpi.o(x$fpl$dcmpinf).
+Error: L6406E: No space in execution regions with .ANY selector matching _rserrno.o(.text).
+Error: L6406E: No space in execution regions with .ANY selector matching ldexp.o(i.__support_ldexp).
+Error: L6406E: No space in execution regions with .ANY selector matching stm32f1xx_hal_rcc.o(.constdata).
+Error: L6406E: No space in execution regions with .ANY selector matching isspace.o(.text).
+Error: L6406E: No space in execution regions with .ANY selector matching exit.o(.text).
+Error: L6406E: No space in execution regions with .ANY selector matching system_stm32f1xx.o(.constdata).
+Error: L6406E: No space in execution regions with .ANY selector matching stm32f1xx_hal.o(i.HAL_IncTick).
+Error: L6406E: No space in execution regions with .ANY selector matching stm32f1xx_hal_uart.o(i.UART_DMAAbortOnError).
+Error: L6406E: No space in execution regions with .ANY selector matching rt_ctype_table.o(.text).
+Error: L6406E: No space in execution regions with .ANY selector matching narrow.o(i.__mathlib_narrow).
+Error: L6406E: No space in execution regions with .ANY selector matching dcheck1.o(x$fpl$dcheck1).
+Error: L6406E: No space in execution regions with .ANY selector matching dunder.o(i.__mathlib_dbl_underflow).
+Error: L6406E: No space in execution regions with .ANY selector matching __printf_wp.o(i._is_digit).
+Error: L6406E: No space in execution regions with .ANY selector matching dunder.o(i.__mathlib_dbl_overflow).
+Error: L6406E: No space in execution regions with .ANY selector matching stm32f1xx_it.o(i.USART3_IRQHandler).
+Error: L6406E: No space in execution regions with .ANY selector matching stm32f1xx_hal.o(i.HAL_GetTick).
+Error: L6406E: No space in execution regions with .ANY selector matching stm32f1xx_hal.o(.data).
+Error: L6406E: No space in execution regions with .ANY selector matching dretinf.o(x$fpl$dretinf).
+Error: L6406E: No space in execution regions with .ANY selector matching libinit2.o(.ARM.Collect$$libinit$$00000012).
+Error: L6406E: No space in execution regions with .ANY selector matching sys_exit.o(.text).
+Error: L6406E: No space in execution regions with .ANY selector matching _sputc.o(.text).
+Error: L6406E: No space in execution regions with .ANY selector matching fretinf.o(x$fpl$fretinf).
+Error: L6406E: No space in execution regions with .ANY selector matching main.o(.data).
+Error: L6406E: No space in execution regions with .ANY selector matching system_stm32f1xx.o(.constdata).
+Error: L6406E: No space in execution regions with .ANY selector matching __rtentry2.o(.ARM.Collect$$rtentry$$0000000D).
+Error: L6406E: No space in execution regions with .ANY selector matching rt_locale_intlibspace.o(.text).
+Error: L6406E: No space in execution regions with .ANY selector matching rt_errno_addr_intlibspace.o(.text).
+Error: L6406E: No space in execution regions with .ANY selector matching libspace.o(.text).
+Error: L6406E: No space in execution regions with .ANY selector matching fpconst.o(c$$dinf).
+Error: L6406E: No space in execution regions with .ANY selector matching fpconst.o(c$$dmax).
+Error: L6406E: No space in execution regions with .ANY selector matching scanf2.o(x$fpl$scanf2).
+Error: L6406E: No space in execution regions with .ANY selector matching _printf_f.o(.ARM.Collect$$_printf_percent$$00000003).
+Error: L6406E: No space in execution regions with .ANY selector matching heapauxi.o(.text).
+Error: L6406E: No space in execution regions with .ANY selector matching istatus.o(x$fpl$ieeestatus).
+Error: L6406E: No space in execution regions with .ANY selector matching rtexit2.o(.ARM.Collect$$rtexit$$00000004).
+Error: L6406E: No space in execution regions with .ANY selector matching stm32f1xx_it.o(i.SysTick_Handler).
+Error: L6406E: No space in execution regions with .ANY selector matching system_stm32f1xx.o(.data).
+Error: L6406E: No space in execution regions with .ANY selector matching printf1.o(x$fpl$printf1).
+Error: L6406E: No space in execution regions with .ANY selector matching scanf1.o(x$fpl$scanf1).
+Error: L6406E: No space in execution regions with .ANY selector matching stm32f1xx_it.o(i.BusFault_Handler).
+Error: L6406E: No space in execution regions with .ANY selector matching stm32f1xx_it.o(i.DebugMon_Handler).
+Error: L6406E: No space in execution regions with .ANY selector matching stm32f1xx_it.o(i.HardFault_Handler).
+Error: L6406E: No space in execution regions with .ANY selector matching stm32f1xx_it.o(i.MemManage_Handler).
+Error: L6406E: No space in execution regions with .ANY selector matching stm32f1xx_it.o(i.NMI_Handler).
+Error: L6406E: No space in execution regions with .ANY selector matching stm32f1xx_it.o(i.PendSV_Handler).
+Error: L6406E: No space in execution regions with .ANY selector matching stm32f1xx_it.o(i.RCC_IRQHandler).
+Error: L6406E: No space in execution regions with .ANY selector matching stm32f1xx_it.o(i.SVC_Handler).
+Error: L6406E: No space in execution regions with .ANY selector matching stm32f1xx_it.o(i.UsageFault_Handler).
+Error: L6406E: No space in execution regions with .ANY selector matching system_stm32f1xx.o(i.SystemInit).
+Error: L6406E: No space in execution regions with .ANY selector matching stm32f1xx_hal_uart.o(i.HAL_UART_ErrorCallback).
+Error: L6406E: No space in execution regions with .ANY selector matching stm32f1xx_hal_uart.o(i.HAL_UART_RxCpltCallback).
+Error: L6406E: No space in execution regions with .ANY selector matching stm32f1xx_hal_uart.o(i.HAL_UART_TxCpltCallback).
+Error: L6406E: No space in execution regions with .ANY selector matching libshutdown.o(.ARM.Collect$$libshutdown$$00000000).
+Error: L6406E: No space in execution regions with .ANY selector matching use_no_semi.o(.text).
+Error: L6406E: No space in execution regions with .ANY selector matching usenofp.o(x$fpl$usenofp).
+Error: L6406E: No space in execution regions with .ANY selector matching indicate_semi.o(.text).
+Error: L6407E: Sections of aggregate size 0x4370 bytes could not fit into .ANY selector(s).
+Not enough information to list image symbols.
+Not enough information to list the image map.
+Finished: 2 information, 0 warning and 150 error messages.
+
+
+>>> postbuild
+
