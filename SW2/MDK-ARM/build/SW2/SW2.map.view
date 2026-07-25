@@ -1,6 +1,0 @@
-tool: AC5
-fileName: 'SW2.map'
-elfName: 'SW2.axf'
-compilerName: 'ARM Compiler'
-compilerFullName: 'Component: ARM Compiler 5.06 update 5 (build 528)'
-compilerPath: 'D:\keil5\ARM\ARMCC\bin\armcc.exe'
