@@ -1,0 +1,16 @@
+oledtest\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/tasks.c
+oledtest\tasks.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+oledtest\tasks.o: D:\keil5\ARM\ARMCC\Bin\..\include\string.h
+oledtest\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+oledtest\tasks.o: D:\keil5\ARM\ARMCC\Bin\..\include\stddef.h
+oledtest\tasks.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+oledtest\tasks.o: ../Core/Inc/FreeRTOSConfig.h
+oledtest\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+oledtest\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+oledtest\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+oledtest\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+oledtest\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+oledtest\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+oledtest\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+oledtest\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h
+oledtest\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/stack_macros.h

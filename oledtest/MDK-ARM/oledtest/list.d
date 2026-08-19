@@ -1,0 +1,12 @@
+oledtest\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/list.c
+oledtest\list.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+oledtest\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+oledtest\list.o: D:\keil5\ARM\ARMCC\Bin\..\include\stddef.h
+oledtest\list.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+oledtest\list.o: ../Core/Inc/FreeRTOSConfig.h
+oledtest\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+oledtest\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+oledtest\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+oledtest\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+oledtest\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+oledtest\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h

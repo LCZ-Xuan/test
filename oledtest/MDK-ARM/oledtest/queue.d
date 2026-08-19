@@ -1,0 +1,15 @@
+oledtest\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/queue.c
+oledtest\queue.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+oledtest\queue.o: D:\keil5\ARM\ARMCC\Bin\..\include\string.h
+oledtest\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+oledtest\queue.o: D:\keil5\ARM\ARMCC\Bin\..\include\stddef.h
+oledtest\queue.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+oledtest\queue.o: ../Core/Inc/FreeRTOSConfig.h
+oledtest\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+oledtest\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+oledtest\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+oledtest\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+oledtest\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+oledtest\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+oledtest\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+oledtest\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h
